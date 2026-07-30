@@ -1,0 +1,3 @@
+:HL["/birthday/_next/static/css/3260d999af566646.css","style"]
+:HL["/birthday/media/featured-lammy.jpg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"xcixEI9mvQXKfODUdPz2D"}
